@@ -1,0 +1,16 @@
+{
+  "name": "9-project-food-menu",
+  "version": "1.0.0",
+  "description": "Simple food menu application, where it display different types of food categories",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.2.0",
+    "readline-sync": "^1.4.10"
+  },
+  "type": "module"
+}
