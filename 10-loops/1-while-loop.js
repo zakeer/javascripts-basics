@@ -16,8 +16,11 @@ let endingNumber = 10;
         // 9         <=     10        => true
         // 10        <=     10        => true
         // 11        <=     10        => false
+
 while (currentNumber <= endingNumber) {
   console.log(`Current Number is ${currentNumber}`);
   currentNumber = currentNumber + 1; // Updating the number
 }
+
+
 

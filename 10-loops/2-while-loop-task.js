@@ -12,3 +12,4 @@ while(start <= end) {
   // console.log(`${currentTable} x ${start} = ${currentTable * start}`);
   start++; // start = start + 1;
 }
+
