@@ -129,5 +129,11 @@ console.log(all_students)
 
 const last_student = all_students.pop();
 console.log(last_student);
-console.log(all_students)
+console.log(all_students); // [ 'Shaik', 'Zahid', 'Apsar', 'Rajesh' ]
+
+const delete_students = all_students.splice(2, 1); // ['Apsar'];
+console.log(delete_students);
+console.log(all_students); // [ 'Shaik', 'Zahid', 'Rajesh' ]
+
+
 
