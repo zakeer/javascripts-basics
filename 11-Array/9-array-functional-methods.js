@@ -2,10 +2,10 @@
 // [].splice(INDEX, END_INDEX);
 
 
-// [].forEach;
-// [].map;
-// [].filter;
-// [].reduce;
+// [].forEach;  => undefined
+// [].map;      => SAME LENGTH OF ARRAY
+// [].filter;   => LESS OR EQUAL LENGTH OF ARRAT
+// [].reduce;   => SINGLE VALUE
 // [].some;
 // [].find;
 
@@ -49,3 +49,5 @@ console.log(a_letter_users)
 
 const r_letter_users = users.filter( value => value[0] === 'R' );
 console.log(r_letter_users)
+
+// Reduce 
