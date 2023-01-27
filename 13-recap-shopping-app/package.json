@@ -1,0 +1,16 @@
+{
+  "name": "13-recap-shopping-app",
+  "version": "1.0.0",
+  "description": "Fetch data from FakeStoreApi\r - [http://fakestoreapi.com/products/categories](Categories)\r - [http://fakestoreapi.com/products](Products)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.2.0",
+    "readline-sync": "^1.4.10"
+  },
+  "type": "module"
+}
