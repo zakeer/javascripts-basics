@@ -1,10 +1,10 @@
 ### Shopping App
 
 Fetch data from FakeStoreApi
-- [http://fakestoreapi.com/products/categories](Categories)
-- [http://fakestoreapi.com/products](Products)
+- (Categories)[https://fakestoreapi.com/products/categories]
+- (Products)[https://fakestoreapi.com/products]
 
 
 
 #### JSON Viewer Extension 
-[https://chrome.google.com/webstore/detail/json-viewer/gbmdgpbipfallnflgajpaliibnhdgobh](JSON Viewer)
+(JSON Viewer)[https://chrome.google.com/webstore/detail/json-viewer/gbmdgpbipfallnflgajpaliibnhdgobh]
