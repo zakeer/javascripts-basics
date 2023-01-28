@@ -1,8 +1,9 @@
 import chalk from "chalk";
-import readline from 'readline-sync';
-import { categories } from "./utils.js"
+import { getCategory, displayProductInfo, getProduct } from "./utils.js"
 
 console.log(chalk.bgGreen("Welcome to our shopping app"));
-
-readline.keyInSelect(categories);
-
+const selectedCategory = getCategory();
+if (selectedCategory) {
+  const product = getProduct(selectedCategory);
+  displayProductInfo(product);
+}
